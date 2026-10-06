@@ -51,5 +51,8 @@ dist/
 # Playwright
 .playwright/
 
-# Release (comment out if you want to track releases in git)
-# release/
+# Release (large files not tracked in git)
+release/*.exe
+release/*.zip
+release/*.dmg
+release/*.AppImage
