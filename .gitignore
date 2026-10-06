@@ -50,3 +50,6 @@ dist/
 
 # Playwright
 .playwright/
+
+# Release (comment out if you want to track releases in git)
+# release/
