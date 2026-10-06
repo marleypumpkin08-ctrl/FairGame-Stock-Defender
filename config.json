@@ -1,0 +1,21 @@
+{
+  "app_name": "FairGame Stock Defender",
+  "version": "1.6.0",
+  "github_repo": "marleypumpkin08-ctrl/FairGame-Stock-Defender",
+  "check_interval": 10,
+  "alert_sound_enabled": true,
+  "desktop_notifications_enabled": true,
+  "donation_url": "https://ko-fi.com/yourusername",
+  "user_agents": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0"
+  ],
+  "notes": {
+    "github_repo": "Main FairGame Stock Defender repository for releases",
+    "updater_repo": "marleypumpkin08-ctrl/FairGame-Stock-Defender-updater-",
+    "donation_url": "Replace with your actual Ko-fi or donation link",
+    "check_interval": "Seconds between stock checks (recommended: 5-30)"
+  }
+}
